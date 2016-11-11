@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Constants\bin\Debug\Constants.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Constants\bin\Debug\Constants.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Constants\obj\Debug\Constants.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Constants\obj\Debug\Constants.pdb
+C:\Users\User\Desktop\Stocks\Constants\bin\Debug\Constants.dll
+C:\Users\User\Desktop\Stocks\Constants\bin\Debug\Constants.pdb
+C:\Users\User\Desktop\Stocks\Constants\obj\Debug\Constants.dll
+C:\Users\User\Desktop\Stocks\Constants\obj\Debug\Constants.pdb

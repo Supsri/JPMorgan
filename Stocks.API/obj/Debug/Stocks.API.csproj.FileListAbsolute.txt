@@ -1,0 +1,236 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\obj\Debug\StocksAPI.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\obj\Debug\StocksAPI.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\ApplicationInsights.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\csc.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\vbc.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\StocksAPI.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\StocksAPI.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\StocksAPI.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.Integration.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.Integration.WebApi.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.Integration.WebApi.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.Web.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Stocks.DTO.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Stocks.Repository.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Stocks.WebClient.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Http.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Http.Owin.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.Integration.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Stocks.Repository.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Stocks.DTO.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Stocks.WebClient.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.Integration.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.Integration.WebApi.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.Integration.WebApi.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.Web.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Extensions.Logging.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Http.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.Web.Http.Owin.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\Autofac.Integration.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stocks\obj\Debug\Stocks.API.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Stocks\Stocks.API\obj\Debug\Stocks.API.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\StocksAPI.dll.config
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\StocksAPI.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\StocksAPI.pdb
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Autofac.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Autofac.Integration.Owin.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Autofac.Integration.WebApi.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Autofac.Integration.WebApi.Owin.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\EntityFramework.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Owin.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Stocks.DTO.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Stocks.Repository.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Http.Owin.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\WebGrease.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Stocks.Repository.pdb
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Stocks.DTO.pdb
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Autofac.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Autofac.Integration.Owin.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Autofac.Integration.WebApi.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Autofac.Integration.WebApi.Owin.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\EntityFramework.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\bin\System.Web.Http.Owin.xml
+C:\Users\User\Desktop\Stocks\Stocks.API\obj\Debug\StocksAPI.dll
+C:\Users\User\Desktop\Stocks\Stocks.API\obj\Debug\StocksAPI.pdb

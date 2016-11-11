@@ -1,0 +1,36 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Stocks.Repository.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Stocks.Repository.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Stocks.Repository.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Autofac.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Stocks.DTO.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Stocks.DTO.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Autofac.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\obj\Debug\Stocks.Repository.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\obj\Debug\Stocks.Repository.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Stocks\Stock.Repository\obj\Debug\Stocks.Repository.pdb
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Stocks.Repository.dll.config
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Stocks.Repository.dll
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Stocks.Repository.pdb
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Autofac.dll
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Stocks.DTO.dll
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Stocks.DTO.pdb
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Autofac.xml
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\Stocks\Stock.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Stocks\Stock.Repository\obj\Debug\Stocks.Repository.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Stocks\Stock.Repository\obj\Debug\Stocks.Repository.dll
+C:\Users\User\Desktop\Stocks\Stock.Repository\obj\Debug\Stocks.Repository.pdb
