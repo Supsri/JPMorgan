@@ -6,4 +6,4 @@ The core project is the API, which exposes the required functionality in the for
 
 The services within the API are invoked/tested in the unit test project Stocks.API.Tests
 
-The API exposed will be consumed by a client in the real usage scenario
+The API exposed will be consumed by a client in the real usage scenario.
